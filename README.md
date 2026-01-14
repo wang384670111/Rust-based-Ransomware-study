@@ -4,7 +4,7 @@
 
 ## Introduction
 
-We construct 1,823 active Rust-based samples spanning 12 families. The top six families are BlackCat (36.82%), Hive (29. 14%), Qilin (12. 32%), Luna (9.93%), Akira (5.83%) and RansomEXX (2.52%). Samples were collected from February 2024 through October 2025, and the dataset continues to expand as new Rust-based campaigns emerge.
+We construct 1,823 active Rust-based samples spanning 12 families. The top six families are BlackCat (36.82%), Hive (29. 14%), Qilin (12. 32%), Luna (9.93%), Akira (5.83%) and RansomEXX (2.52%). Samples were collected from February 2024 through December 2025, and the dataset continues to expand as new Rust-based campaigns emerge.
 
 
 Due to the large file size and bandwidth considerations, we upload a portion of the data for subsequent Rust-based ransomware research (712 samples from 12 Rust-based ransomware families).
